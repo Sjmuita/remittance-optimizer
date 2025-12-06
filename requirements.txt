@@ -1,0 +1,39 @@
+# Core Data Science
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Data Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+
+# Time Series Forecasting
+statsmodels>=0.14.0
+prophet>=1.1.5
+
+# Web Dashboard
+streamlit>=1.28.0
+streamlit-option-menu>=0.3.6
+
+# API & Web Scraping
+requests>=2.31.0
+yfinance>=0.2.0
+beautifulsoup4>=4.11.0
+
+# Excel/CSV Processing
+openpyxl>=3.1.0
+xlrd>=2.0.0
+
+# Utilities
+python-dateutil>=2.8.0
+pytz>=2023.3
+
+# Optional: Jupyter Notebooks
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.25.0
