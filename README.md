@@ -1,6 +1,8 @@
 SmartRemit AI – Remittance Fee Optimization Decision Support System
 ==================================================================
 
+OPTIMIZING CROSS-BORDER REMITTANCE FEES USING PREDICTIVE MODELLING AND COST EFFICIENCY ANALYSIS
+
 Last updated: 06 December 2025
 
 Overview
